@@ -37,24 +37,3 @@ We see a peak of usage for members happen at 12:00pm, with a count of 3,254, fol
 Casual members are more likely to travel for longer distances and longer periods. This difference could be further investigated with more data but without it, only assumption can be made about the reasoning. 
 
 Considering members would ideally be more consistent with usage, they should be making regular trips to the same destination which would generate a more consistent journey compared to casual riders. Casual member could be using the bikes for a more explorative journey rather than to reach a destination in the shortest route. 
-
-
-## Appendix 
-
-### Improvments for the data analysis process. 
-
-* Better visualisation for distance and duration of travel - Possibly Box Plot for both elements. 
-
-* Double check duration calculation. 
-
-* Further breaking down visualation into members vs casual types. For example, Maps could separate Members/Casual destinations.
-
-* Futher Cleaning of longitude and latitude coordinates.
-
-* Further Cleaning of Station names or look into using Station ID instead. 
-
-
-
-
-
-
