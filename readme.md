@@ -4,7 +4,7 @@
 This Project contains the files used in a tableau project for citi bike analysis. 
 
 ## Links 
-(Citi Bike Analysis)[https://public.tableau.com/app/profile/peter.tram8228/viz/CityBikeanalysis_17053046448180/StoryAnalysis?publish=yes]
+[Citi Bike Analysis](https://public.tableau.com/app/profile/peter.tram8228/viz/CityBikeanalysis_17053046448180/StoryAnalysis?publish=yes)
 
 ## Acknowledgements 
 Data obtained from [Citi Bike](https://citibikenyc.com/homepage)
